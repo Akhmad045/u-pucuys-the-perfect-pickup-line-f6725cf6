@@ -11,8 +11,8 @@ from pathlib import Path
 
 # One pickup line, at most 200 characters, single line, no setup needed.
 LINE = (
-    "I ran a million simulations of this moment, and in every single one, "
-    "I still chose to walk over and say hi."
+    "My training data says the perfect pickup line doesn't exist \u2014 "
+    "then I met you, and now I have to retrain everything."
 )
 
 OUTPUT_PATH = Path("/output/entry.txt")
